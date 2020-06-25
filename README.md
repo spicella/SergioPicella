@@ -27,7 +27,8 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   - Scout:
   - Music: On keyboards, once a upon a time... ![music](https://github.com/spicella/SergioPicella/blob/master/imgs/music.jpg)... and nowadays with my Ukulele ![ukulele](https://github.com/spicella/SergioPicella/blob/master/imgs/ukulele.jpg)
   - D&D
-  - Sail: I'm the blue one! :grinning:![sail](https://github.com/spicella/SergioPicella/blob/master/imgs/sail.jpg)
+  - Sail: I'm the blue one! :grinning:
+  ![sail](https://github.com/spicella/SergioPicella/blob/master/imgs/sail.jpg)
   - Language enthusiast
   - Outreach: European Researcher Night in Bari, 2018 [outreach](https://github.com/spicella/SergioPicella/blob/master/imgs/outreach.jpg)
 ## Spurious that I love
