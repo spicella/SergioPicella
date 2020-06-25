@@ -1,6 +1,6 @@
 # Welcome to my personal website!
 
-![Jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
 
 
 ## Me, in a nutshell
