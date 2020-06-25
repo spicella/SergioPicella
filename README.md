@@ -14,7 +14,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+## Me, in a nutshell
+![alt text](https://github.com/spicella/SergioPicella/blob/master/CV.pdf )
+
+
 ## Header 2
 ### Header 3
 
