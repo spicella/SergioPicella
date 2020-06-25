@@ -6,6 +6,9 @@ I am mainly interested in Complex Systems and Condesed Matter, mostly attracted 
 
 Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/) and [GitHub](https://github.com/spicella), feel free to roam around!
 
+## Me, in a nutshell
+![CV](CV.pdf)
+
 
 ### Markdown
 
@@ -14,13 +17,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-## Me, in a nutshell
-![CV](CV.pdf)
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+
 
 ## Header 2
 ### Header 3
