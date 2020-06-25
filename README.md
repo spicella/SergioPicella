@@ -1,6 +1,6 @@
 # Welcome to my personal website!
 
-![alt text](https://github.com/spicella/SergioPicella/blob/master/imgs/countryside.jpg)
+<img src="https://github.com/spicella/SergioPicella/blob/master/imgs/countryside.jpg" >  
 
 
 ## Me, in a nutshell
