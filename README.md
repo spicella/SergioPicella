@@ -37,10 +37,12 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   and my origins
   ![oliveroot](https://github.com/spicella/SergioPicella/blob/master/imgs/oliveroot.jpg)
   ![asecco](https://github.com/spicella/SergioPicella/blob/master/imgs/asecco.jpg)
+  ![wall](https://github.com/spicella/SergioPicella/blob/master/imgs/wall.jpg)
+
   Ancient roman wall in Sepino (2 BC), Molise (IT)
   ![sepino](https://github.com/spicella/SergioPicella/blob/master/imgs/sepino.jpg)
   My beloved Utrecht :heart:
-  ![wall](https://github.com/spicella/SergioPicella/blob/master/imgs/utrecht.jpg)
+  ![utrecht](https://github.com/spicella/SergioPicella/blob/master/imgs/utrecht.jpeg)
 
 # Contacts & social
 
