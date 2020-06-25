@@ -35,5 +35,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Support or Contact
 
-Feel free to contact me via [email](mailto:sergiopicella@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+Feel free to contact me via [email](mailto:sergiopicella@gmail.com?subject=CiaoSergio!)
 
