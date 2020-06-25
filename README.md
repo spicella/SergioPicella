@@ -1,4 +1,4 @@
-# Welcome to my personal website!
+# Welcome to my personal website :bowtie:
 
 ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
 
