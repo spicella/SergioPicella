@@ -1,5 +1,6 @@
-# Welcome to my personal website :bowtie:
+# Welcome to my personal website!
 
+![alt text](https://github.com/spicella/SergioPicella/blob/master/imgs/countryside.jpg)
 
 
 ## Me, in a nutshell
@@ -9,6 +10,8 @@ I'm Sergio Picella, an Italian MSc student in Experimental Physics at **Utrecht 
 I am mainly interested in Complex Systems, Condesed Matter and Modelling, but I am mostly attracted by whatever contamination in sciences though!
 
 Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/) and [GitHub](https://github.com/spicella), feel free to roam around! Here my [cv](https://github.com/spicella/SergioPicella/blob/master/CV.pdf).
+
+## Recent Projects
 
 ## Side activities & Personal experiences
 
