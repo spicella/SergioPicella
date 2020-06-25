@@ -1,4 +1,4 @@
-# Welcome to my personal website:bowtie:!
+# Welcome to my personal website :bowtie:
 
 
 
