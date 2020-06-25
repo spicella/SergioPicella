@@ -1,6 +1,6 @@
 # Welcome to my personal website!
 
-<img src="https://github.com/spicella/SergioPicella/blob/master/imgs/countryside.jpg" >  
+<img src="https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg" >  
 
 
 ## Me, in a nutshell
