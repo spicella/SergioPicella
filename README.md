@@ -21,7 +21,7 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   
 ## Side activities & Personal experiences
   - A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency ![anpas](https://github.com/spicella/SergioPicella/blob/master/imgs/anpas.jpg)
-  - Italian Association Physics Students: some members and Executive Commitee at the last conference in Milan ![aisf](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf.jpg) and my beloved Local Commitee in Bari ![anpas](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf_ba.jpg)
+  - Italian Association Physics Students: some members and Executive Commitee at the last conference in Milan... ![aisf](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf.jpg) ...and my beloved Local Commitee in Bari ![anpas](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf_ba.jpg)
   - Private tutoring:
   - Electronics:
   - Scout:
