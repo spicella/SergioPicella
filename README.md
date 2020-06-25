@@ -7,7 +7,9 @@ I am mainly interested in Complex Systems and Condesed Matter, mostly attracted 
 Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/) and [GitHub](https://github.com/spicella), feel free to roam around!
 
 ## Me, in a nutshell
-![CV](CV.pdf)
+[CV.pdf](https://github.com/spicella/SergioPicella/blob/master/CV.pdf)
+
+
 
 
 ### Markdown
