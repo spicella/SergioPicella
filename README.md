@@ -1,6 +1,9 @@
 ## Welcome to my personal website!
 
-You can use the [editor on GitHub](https://github.com/spicella/spicella/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I'm Sergio Picella, an Italian MSc student in Experimental Physics at **Utrecht University** (NL) currently working on my thesis in the *[Soft Robotic Matter](http://www.overvelde.com/)* group at [AMOLF](https://amolf.nl/). Before going to Netherlands I graduated at the **Università degli Studi "Aldo Moro"** in Bari (IT) and followed the courses in the first year of the Condesed Matter MSc before deciding to have an experience abroad in a different context.
+
+Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/) and [GitHub](https://github.com/spicella), feel free to roam around!
+
 
 ### Markdown
 
