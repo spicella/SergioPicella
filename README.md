@@ -20,14 +20,25 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   - Noise measurement:
   
 ## Side activities & Personal experiences
-  - 118
-  - Private tutoring
-  - Electronics
-  - Scout
+  - A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency ![anpas](https://github.com/spicella/SergioPicella/blob/master/imgs/anpas.jpg)
+  - Italian Association Physics Students: Our Executive Commitee at the last conference in Milan ![aisf](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf.jpg) and my beloved Local Commitee in Bari ![anpas](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf_ba.jpg)
+  - Private tutoring:
+  - Electronics:
+  - Scout:
+  - Music: On keyboards, once a upon a time... ![music](https://github.com/spicella/SergioPicella/blob/master/imgs/music.jpg)... and nowadays with my Ukulele ![ukulele](https://github.com/spicella/SergioPicella/blob/master/imgs/ukulele.jpg)
   - D&D
-  - Sail
+  - Sail: I'm the blue one! :grinning:![sail](https://github.com/spicella/SergioPicella/blob/master/imgs/sail.jpg)
   - Language enthusiast
-  - Outreach
+  - Outreach: European Researcher Night in Bari, 2018 [outreach](https://github.com/spicella/SergioPicella/blob/master/imgs/outreach.jpg)
+## Spurious that I love
+  Fancy way of spending summer times ![500](https://github.com/spicella/SergioPicella/blob/master/imgs/500.jpg)
+  ![tomatoes](https://github.com/spicella/SergioPicella/blob/master/imgs/tomatoes.jpg)
+  and my origins
+  ![oliveroot](https://github.com/spicella/SergioPicella/blob/master/imgs/oliveroot.jpg)
+  Ancient roman wall in Sepino (2 BC), Molise (IT)
+  ![wall](https://github.com/spicella/SergioPicella/blob/master/imgs/wall.jpg)
+  My beloved Utrecht :heart:
+  ![wall](https://github.com/spicella/SergioPicella/blob/master/imgs/wall.jpg)
 
 # Contacts & social
 
