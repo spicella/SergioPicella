@@ -15,7 +15,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 ## Me, in a nutshell
-![alt text](https://github.com/spicella/SergioPicella/blob/master/CV.pdf )
+![CV](CV.pdf)
 
 
 ## Header 2
