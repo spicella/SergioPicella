@@ -2,7 +2,6 @@
 
 ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
 
-
 ## Me, in a nutshell
 
 I'm Sergio Picella, an Italian MSc student in Experimental Physics at **Utrecht University** (NL) currently working on my thesis in the *[Soft Robotic Matter](http://www.overvelde.com/)* group at [AMOLF](https://amolf.nl/). Before going to Netherlands I graduated at the **Università degli Studi "Aldo Moro"** in Bari (IT) and followed the courses in the first year of the Condesed Matter MSc before deciding to have an experience abroad in a different context.
@@ -14,14 +13,21 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
 
 ## Recent Projects
   - Potts model: 
-  - PCA
-  - Graph
-  - Kuramoto
-  - CME
+  - PCA:
+  - Graph:
+  - Kuramoto:
+  - CME:
+  - Noise measurement:
   
 ## Side activities & Personal experiences
-
-## Outreach
+  - 118
+  - Private tutoring
+  - Electronics
+  - Scout
+  - D&D
+  - Sail
+  - Language enthusiast
+  - Outreach
 
 # Contacts & social
 
