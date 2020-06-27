@@ -21,15 +21,14 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   
 ## Side activities & Personal experiences
   - A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+    ![anpas](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/anpas.jpg)
 
   
-  - Italian Association Physics Students: some members and Executive Commitee at the last conference in Milan... 
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  - Italian Association Physics Students: some members and Executive Commitee at the last conference in Milan (with totally uncorrelated background!) 
+    ![aisf](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/aisf.jpg)
 
   ...and my beloved Local Commitee in Bari 
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
-
+    ![aisf_ba](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/aisf_ba.jpg)
 
   - Private tutoring:
   - Electronics:
@@ -45,7 +44,7 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
 
   - Language enthusiast
   - Outreach: European Researcher Night in Bari, 2018 
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+    ![outreach](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/outreach.jpg)
 
   
 ## Spurious that I love
@@ -53,14 +52,14 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/500.jpg)
   ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/tomatoes.jpg)
   and my origins
-  ![oliveroot](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
-  ![asecco](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
-  ![wall](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![oliveroot](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/oliveroot.jpg)
+  ![wall](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/wall.jpg)
+  ![asecco](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/asecco.jpg)
 
   Ancient roman wall in Sepino (2 BC), Molise (IT)
-  ![sepino](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![sepino](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sepino.jpg)
   My beloved Utrecht :heart:
-  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpg)
   
 # Contacts & social
 
