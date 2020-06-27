@@ -7,3 +7,16 @@ header_pages:
   - academic.md
   - life.md
 sidebar: toc
+
+
+---
+Title: Sample 1
+category: getting-started
+order: 1
+---
+
+---
+Title: Sample 2
+category: getting-started
+order: 2
+---
