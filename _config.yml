@@ -1,5 +1,4 @@
 title: "Sergio Picella - Personal Website"
-theme: benbalter/retlab
+theme: jekyll-theme-minimal
 markdown: kramdown
 layout: page
-remote_theme: 
