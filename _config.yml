@@ -6,3 +6,7 @@ layout: page
 logo: ![profilephoto](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/coffee.jpg)
 show_downloads: false
 
+header_pages:
+  - main.md
+  - academic.md
+  - life.md
