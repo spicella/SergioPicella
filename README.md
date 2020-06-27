@@ -11,6 +11,8 @@ When I have free time I generally enjoy a good run or play some tune :smiley:
 
 Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/), [GitHub](https://github.com/spicella) and my [cv](https://github.com/spicella/SergioPicella/blob/master/CV.pdf). Feel free to roam around!
 
+---
+
 ## Recent Projects
   ### Potts model: 
   ### PCA
@@ -18,7 +20,9 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   ### Kuramoto:
   ### CME:
   ### Noise measurement:
-  
+---
+
+
 ## Side activities & Personal experiences
   - A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
     ![anpas](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/anpas.jpg)
