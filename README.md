@@ -12,43 +12,56 @@ When I have free time I generally enjoy a good run or play some tune :smiley:
 Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/), [GitHub](https://github.com/spicella) and my [cv](https://github.com/spicella/SergioPicella/blob/master/CV.pdf). Feel free to roam around!
 
 ## Recent Projects
-  - Potts model: 
-  - PCA:
-  - Graph:
-  - Kuramoto:
-  - CME:
-  - Noise measurement:
+  ### Potts model: 
+  ### PCA
+  ### Graph:
+  ### Kuramoto:
+  ### CME:
+  ### Noise measurement:
   
 ## Side activities & Personal experiences
-  - A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency ![anpas](https://github.com/spicella/SergioPicella/blob/master/imgs/anpas.jpg)
+  - A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+
+  
   - Italian Association Physics Students: some members and Executive Commitee at the last conference in Milan... 
-  ![aisf](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf.jpg) 
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+
   ...and my beloved Local Commitee in Bari 
-![aisf_ba](https://github.com/spicella/SergioPicella/blob/master/imgs/aisf_ba.jpg)
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+
 
   - Private tutoring:
   - Electronics:
   - Scout:
-  - Music: On keyboards, once a upon a time... ![music](https://github.com/spicella/SergioPicella/blob/master/imgs/music.jpg)... and nowadays with my Ukulele ![ukulele](https://github.com/spicella/SergioPicella/blob/master/imgs/ukulele.jpg)
+  - Music: On keyboards, once a upon a time... 
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+... and nowadays with my ukulele 
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+
   - D&D
   - Sail: I'm the blue one! :grinning:
-  ![sail](https://github.com/spicella/SergioPicella/blob/master/imgs/sail.jpg)
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+
   - Language enthusiast
-  - Outreach: European Researcher Night in Bari, 2018 ![outreach](https://github.com/spicella/SergioPicella/blob/master/imgs/outreach.jpg)
+  - Outreach: European Researcher Night in Bari, 2018 
+    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+
   
 ## Spurious that I love
-  Fancy way of spending summer times ![500](https://github.com/spicella/SergioPicella/blob/master/imgs/500.jpg)
-  ![tomatoes](https://github.com/spicella/SergioPicella/blob/master/imgs/tomatoes.jpg)
+  Fancy way of spending summer times 
+  ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
   and my origins
-  ![oliveroot](https://github.com/spicella/SergioPicella/blob/master/imgs/oliveroot.jpg)
-  ![asecco](https://github.com/spicella/SergioPicella/blob/master/imgs/asecco.jpg)
-  ![wall](https://github.com/spicella/SergioPicella/blob/master/imgs/wall.jpg)
+  ![oliveroot](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![asecco](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![wall](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
 
   Ancient roman wall in Sepino (2 BC), Molise (IT)
-  ![sepino](https://github.com/spicella/SergioPicella/blob/master/imgs/sepino.jpg)
+  ![sepino](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
   My beloved Utrecht :heart:
-  ![utrecht](https://github.com/spicella/SergioPicella/blob/master/imgs/utrecht.jpeg)
-
+  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  
 # Contacts & social
 
 Feel free to contact me via [email](mailto:sergiopicella@gmail.com?subject=CiaoSergio!%20[GitHub]), [fb](https://www.facebook.com/sergio.picella) or Telegram (@sergio_pic)
