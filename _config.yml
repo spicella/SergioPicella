@@ -1,5 +1,5 @@
-title: "is it working?"
-theme: jekyll-theme-minimal
+title: "Sergio Picella - Personal Website"
+theme: benbalter/retlab
 markdown: kramdown
 layout: page
-remote_theme: benbalter/retlab
+remote_theme: 
