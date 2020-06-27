@@ -6,3 +6,4 @@ show_downloads: false
 header_pages:
   - academic.md
   - life.md
+sidebar: toc
