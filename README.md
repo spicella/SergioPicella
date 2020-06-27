@@ -15,12 +15,23 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
 
 ## Recent Projects
 
-### Potts model: 
-### PCA
+### Potts model:
+  sdfgh
+
+### PCA:
+  sdfgh
+
 ### Graph:
+  sdfgh
+
 ### Kuramoto:
+  sdfgh
+
 ### CME:
+  sdfgh
+
 ### Noise measurement:
+  sdfgh
 
 ***
 
