@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-layout: page
 title: "is it working?"
+theme: jekyll-theme-minimal
+markdown: kramdown
+layout: page
+remote_theme: benbalter/retlab
