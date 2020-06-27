@@ -35,13 +35,13 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   - Electronics:
   - Scout:
   - Music: On keyboards, once a upon a time... 
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+    ![music](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/music.jpg)
 ... and nowadays with my ukulele 
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+    ![ukulele](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/ukulele.jpg)
 
   - D&D
   - Sail: I'm the blue one! :grinning:
-    ![countryside](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+    ![sail](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sail.jpg)
 
   - Language enthusiast
   - Outreach: European Researcher Night in Bari, 2018 
