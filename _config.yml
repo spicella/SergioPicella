@@ -4,8 +4,8 @@ theme: jekyll-theme-minimal
 layout: page
 show_downloads: false
 header_pages:
-  - academic.md
-  - life.md
+  - about.md
+  - portfolio.md
 sidebar: toc
 
 
