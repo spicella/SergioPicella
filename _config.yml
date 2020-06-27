@@ -1,3 +1,6 @@
 title: "Sergio Picella - Personal Website"
 theme: jekyll-theme-minimal
 layout: page
+logo: ![profilephoto](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/coffee.jpg)
+show_downloads: false
+
