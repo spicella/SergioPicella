@@ -1,4 +1,6 @@
-title: "Sergio Picella - Personal Website"
+title: "Personal Website"
+description: Get to know what I do in life, what I like, what to I do to call it a day! 
+
 theme: jekyll-theme-minimal
 layout: page
 logo: ![profilephoto](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/coffee.jpg)
