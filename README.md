@@ -14,12 +14,13 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
 ***
 
 ## Recent Projects
-  ### Potts model: 
-  ### PCA
-  ### Graph:
-  ### Kuramoto:
-  ### CME:
-  ### Noise measurement:
+
+### Potts model: 
+### PCA
+### Graph:
+### Kuramoto:
+### CME:
+### Noise measurement:
 
 ***
 
