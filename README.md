@@ -75,7 +75,7 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   Ancient roman wall in Sepino (2 BC), Molise (IT)
   ![sepino](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sepino.jpg)
   My beloved Utrecht :heart:
-  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpg)
+  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpeg)
   
 # Contacts & social
 
