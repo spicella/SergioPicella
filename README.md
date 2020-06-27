@@ -63,7 +63,7 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
     ![outreach](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/outreach.jpg)
 
   
-## Spurious that I love
+## Spurious that I love :D
   Fancy way of spending summer times 
   ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/500.jpg)
   ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/tomatoes.jpg)
