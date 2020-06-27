@@ -50,8 +50,8 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
   
 ## Spurious that I love
   Fancy way of spending summer times 
-  ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
-  ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
+  ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/500.jpg)
+  ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/tomatoes.jpg)
   and my origins
   ![oliveroot](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
   ![asecco](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/countryside.jpg)
