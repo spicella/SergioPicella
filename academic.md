@@ -1,2 +1,5 @@
-
-jhgfsa
+---
+title: Academic
+layout: jekyll-theme-minimal
+filename: academic
+--- 
