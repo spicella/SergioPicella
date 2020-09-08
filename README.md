@@ -10,25 +10,22 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
 
 ***
 
-## Recent Projects
+## Recent Projects (Section in progress)
+
+### Computer Visions, object detection & tracking
 
 ### Potts model:
-  sdfgh
+  
+### Probabilistic Cellular Automata:
+  
+### GraphTheory:
 
-### PCA:
-  sdfgh
+### Kuramoto Model:
 
-### Graph:
-  sdfgh
+### ChemicalMasterEquation for Savanna model:
 
-### Kuramoto:
-  sdfgh
-
-### CME:
-  sdfgh
-
-### Noise measurement:
-  sdfgh
+### Noise characterizations:
+  
 
 ***
 
@@ -52,7 +49,7 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
     ![ukulele](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/ukulele.jpg)
 
   - D&D
-  - Sail: I'm the blue one! :grinning:
+  - Sail: I'm the blue one! 
     ![sail](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sail.jpg)
 
   - Language enthusiast
@@ -71,7 +68,7 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
 
   Ancient roman wall in Sepino (2 BC), Molise (IT)
   ![sepino](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sepino.jpg)
-  My beloved Utrecht :heart:
+  My beloved Utrecht 
   ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpeg)
   
 # Contacts & social
