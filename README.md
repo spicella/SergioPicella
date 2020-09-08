@@ -47,8 +47,6 @@ Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793
     ![music](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/music.jpg)
 ... and nowadays with my ukulele 
     ![ukulele](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/ukulele.jpg)
-
-  - D&D
   - Sail: I'm the blue one! 
     ![sail](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sail.jpg)
 
