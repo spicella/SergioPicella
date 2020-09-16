@@ -1,6 +1,6 @@
 
 
-# Recent Projects (Section in progress):
+# Recent Projects (in progress):
 
 ### Computer Visions, object detection & tracking
 
