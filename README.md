@@ -8,6 +8,7 @@ When I have free time I generally enjoy a good run or play some tune!
 
 Here the links to my [Linkedin](https://www.linkedin.com/in/sergio-picella-26793a17a/), [GitHub](https://github.com/spicella) and my [cv](https://github.com/spicella/SergioPicella/blob/master/CV.pdf). Feel free to roam around!
 
+You want to know [me](https://spicella.github.io/SergioPicella/about) or [what I do](https://spicella.github.io/SergioPicella/academic)? 
 
 # Contacts & social
 
