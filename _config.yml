@@ -6,6 +6,7 @@ show_downloads: false
 header_pages:
   - about.md
   - academic.md
+  - contacts.md
 sidebar: toc
 
 
