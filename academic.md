@@ -22,3 +22,5 @@
 
 
 # Interests:
+
+- Languages and ethimology, climbing, cooking and gardening.
