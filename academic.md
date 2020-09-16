@@ -1,3 +1,5 @@
+## Recent academic projects
+
 ### Computer Visions, object detection & tracking
 
 ### Potts model:
