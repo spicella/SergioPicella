@@ -1,7 +1,3 @@
-
-
-# Recent Projects (in progress):
-
 ### Computer Visions, object detection & tracking
 
 ### Potts model:
