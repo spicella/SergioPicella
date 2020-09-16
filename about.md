@@ -24,7 +24,7 @@
   
 
 ## Miscellanea
-  - Fancy way of spending summer times 
+   Fancy way of spending summer times 
   ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/500.jpg)
   
   ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/tomatoes.jpg)
