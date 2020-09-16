@@ -39,8 +39,5 @@
   ![sepino](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/sepino.jpg)
   
   My beloved Utrecht 
-  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpeg)
+  ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpeg){ width=50% }
  
-## Spurious that I love :D
-  - Language enthusiast
-  - Scout & tutoring
