@@ -21,11 +21,9 @@
     ![outreach](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/outreach.jpg)
 
   
-## Spurious that I love :D
-  - Language enthusiast
-  - Scout & tutoring
-### Miscellanea
-  Fancy way of spending summer times 
+
+## Miscellanea
+  - Fancy way of spending summer times 
   ![500](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/500.jpg)
   
   ![tomatoes](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/tomatoes.jpg)
@@ -42,4 +40,7 @@
   
   My beloved Utrecht 
   ![utrecht](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/utrecht.jpeg)
-  
+ 
+## Spurious that I love :D
+  - Language enthusiast
+  - Scout & tutoring
