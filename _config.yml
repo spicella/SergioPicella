@@ -1,6 +1,6 @@
 title: "Sergio Picella, Personal website"
 description: "Get to know who I am, what I like, what I do to call it a day!"
-theme: jekyll-theme-minimal
+theme: minima
 show_downloads: false
 header_pages:
   - about.md
