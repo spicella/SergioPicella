@@ -17,6 +17,6 @@
 ### Photon Physics & optics:
 
 
-# Interests:
+## Other interests:
 
 - Languages and ethimology, climbing, cooking and gardening.
