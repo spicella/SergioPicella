@@ -12,7 +12,9 @@
 
 ### Kuramoto Model:
 
-### ChemicalMasterEquation for Savanna model:
+### ChemicalMasterEquation for modelling and simulations:
+
+### Machine Learning and data visualization:
 
 ### Noise characterizations:
   
