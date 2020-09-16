@@ -1,3 +1,7 @@
+layout: page
+title: "about"
+permalink: https://spicella.github.io/SergioPicella/about
+  
   A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
     ![anpas](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/anpas.jpg)
 
