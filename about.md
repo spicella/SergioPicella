@@ -1,4 +1,9 @@
+  Welcome to my personal website! Glad to see somebody here :D Here you can find some fundamental informations about what I did so far and things I enjoy doing. Feel free to roam around! Relevant info about my academic interests are reported in the "Academic" section. 
+
+This website is a work in progress, so it is going to look incomplete in both information given and layout. Thanks for you patience!
+  
 # AboutMe
+
   Here a pseudorandom collection of things I've done. Some of these experiences strongly influence the way I live and work in my present days, but all of them contributed to my present trajectory of life. 
   
   A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
