@@ -1,4 +1,5 @@
 # AboutMe
+  Here a pseudorandom collection of things I've done. Some of these experiences strongly influence the way I live and work in my present days, but all of them contributed to my present trajectory of life. 
   
   A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
     ![anpas](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/anpas.jpg)
