@@ -1,19 +1,19 @@
-  Welcome to my personal website! Glad to see somebody here :D Here you can find some fundamental informations about what I did so far and things I enjoy doing. Feel free to roam around! Relevant info about my academic interests are reported in the "Academic" section. 
+  Welcome to my personal website! Glad to see somebody here :D Here you can find some basic information about what I did so far and things I enjoy doing. Feel free to roam around! Relevant info about my academic interests is reported in the "Academic" section. 
 
-This website is a work in progress, so it is going to look incomplete in both information given and layout. Thanks for you patience!
+This website is a work in progress, so it will look incomplete in both information given and the layout. Thanks for your patience!
 
-  Here a pseudorandom collection of things I've done. Some of these experiences strongly influence the way I live and work in my present days, but all of them contributed to my present trajectory of life. 
+  Here a pseudorandom collection of things I've done. Some of these experiences strongly influence the way I live and work in my present days. Still, all of them contributed to my current trajectory of life. 
   
   A good call: 8-15 Oct 2016, Amatrice Earthquake Emergency 
     ![anpas](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/anpas.jpg)
 
-  Italian Association Physics Students: some members and Executive Commitee at the last conference in Milan (with totally uncorrelated background!) 
+  Italian Association Physics Students: some members and Executive Committee at the last conference in Milan (with totally uncorrelated background!) 
     ![aisf](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/aisf.jpg)
 
   ...and my beloved Local Commitee in Bari 
     ![aisf_ba](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/aisf_ba.jpg)
 
-   Music: On keyboards, once a upon a time... 
+   Music: On keyboards, once upon a time... 
     ![music](https://raw.githubusercontent.com/spicella/SergioPicella/master/imgs/music.jpg)
     
 ... and nowadays with my ukulele!
