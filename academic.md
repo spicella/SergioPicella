@@ -12,7 +12,9 @@
 ### ChemicalMasterEquation for modelling and simulations;
 ### Machine Learning and data visualization;
 ### Noise characterizations;
-### Photon Physics & optics;
+### Basic electronic board prototyping;
+### GIS Satellite data analysis and visualization;
+### Photon Physics & Fuorier Optics;
 
 # Other interests:
 
